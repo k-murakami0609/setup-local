@@ -37,6 +37,7 @@ PROMPT="
   zplug load --verbose
 
   source ~/zsh_settings/chpwd_for_zsh.sh
+  source ~/zsh_settings/claude.sh
 }
 
 : "補完系" && {

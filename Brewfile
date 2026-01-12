@@ -1,6 +1,10 @@
-tap "homebrew/services"
+tap "kayac/tap"
 
 # Brew packages
+brew "gh"
+brew "devcontainer"
+brew "duckdb"
+brew "kayac/tap/ecspresso"
 brew "jq"
 brew "tree"
 brew "curl"
