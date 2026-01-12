@@ -1,0 +1,27 @@
+tap "homebrew/services"
+
+# Brew packages
+brew "jq"
+brew "tree"
+brew "curl"
+brew "peco"
+brew "wget"
+brew "gibo"
+brew "zsh"
+brew "zsh-completions"
+brew "zplug"
+brew "ghq"
+brew "mise"
+brew "chezmoi"
+
+# Cask packages (Apps)
+cask "docker-desktop"
+cask "visual-studio-code"
+cask "raycast"
+cask "iterm2"
+cask "clipy"
+cask "intellij-idea-ce"
+cask "fork"
+cask "spotify"
+cask "ghostty"
+cask "font-udev-gothic"

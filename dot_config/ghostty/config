@@ -1,0 +1,6 @@
+font-family = "UDEV Gothic"
+font-size = 16
+
+# 前後のタブへ移動 (Control + Option + 方向キー)
+keybind = command+opt+left=previous_tab
+keybind = command+opt+right=next_tab

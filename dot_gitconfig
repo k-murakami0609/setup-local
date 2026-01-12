@@ -1,0 +1,7 @@
+[user]
+        name = k-murakami0609
+        email = dadgac@gmail.com
+[core]
+        autocrlf = false
+[ghq]
+        root = ~/Desktop/project
